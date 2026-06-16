@@ -1,0 +1,14 @@
+# 默认忽略的文件
+/shelf/
+/workspace.xml
+# 基于编辑器的 HTTP 客户端请求
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# 废弃旧脚本
+1.py
+2.py
+3.py
+# 数据集文件夹，不上传
+data/

@@ -1,0 +1,16 @@
+# PyCharm配置文件
+.idea/
+*.iml
+
+# 虚拟环境
+.venv/
+venv/
+
+# 数据集和生成的图片
+data/
+img/
+
+# Python缓存文件
+__pycache__/
+*.pyc
+*.pyo
